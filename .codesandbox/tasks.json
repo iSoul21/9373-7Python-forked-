@@ -27,10 +27,6 @@
         "branch": false,
         "resume": false
       }
-    },
-    "python cream.py": {
-      "name": "run_cream",
-      "command": "python cream.py"
     }
   }
 }

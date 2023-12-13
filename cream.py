@@ -1,1 +1,0 @@
-print("kobe 24")
