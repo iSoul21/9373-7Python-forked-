@@ -1,0 +1,1 @@
+print("kobe 24")
