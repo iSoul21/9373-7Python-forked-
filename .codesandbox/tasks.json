@@ -31,6 +31,14 @@
         "branch": false,
         "resume": false
       }
+    },
+    "npm install eslint": {
+      "name": "eslint",
+      "command": "npm install eslint"
+    },
+    "npm install -g eslint": {
+      "name": "npm install -g eslint",
+      "command": "npm install -g eslint"
     }
   }
 }
